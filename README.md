@@ -1,0 +1,2 @@
+# AWSStatic
+Amplify demo
